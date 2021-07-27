@@ -6,4 +6,4 @@ Circle to Delete your vehicle
 * Blue circle only visible in a Vehicle
 
 # Discord
-https://discord.green/andys-development
+https://discord.gg/FAduBsz3H3
